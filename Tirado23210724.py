@@ -5,7 +5,7 @@ Departamento de Ingeniería Eléctrica y Electrónica, Ingeniería Biomédica
 Tecnológico Nacional de México [TecNM - Tijuana]
 Blvd. Alberto Limón Padilla s/n, C.P. 22454, Tijuana, B.C., México
 
-Nombre del alumno: Zulema Gaudalupe Tirado Manzo
+Nombre del alumno: Zulema Guadalupe Tirado Manzo
 Número de control: 23210724
 Correo institucional: l23210724@tectijuana.edu.mx
 
